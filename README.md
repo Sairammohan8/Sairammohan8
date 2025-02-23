@@ -9,7 +9,7 @@ I build and manage cloud infrastructure to make software delivery faster and mor
 
 •	✉️ You can contact me at sairammohan473@gmail.com
 
-•	🧠 I’m leaning Kubernetes Advanced Concepts: Diving into topics like Helm charts and Kubernetes security for better orchestration and cluster management.
+•	🧠 I’m learning Kubernetes Advanced Concepts: Diving into topics like Helm charts and Kubernetes security for better orchestration and cluster management.
 
 •	🤝 I’m open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS and Terraform. CI/CD Implementation: Designing and optimizing CI/CD pipelines with Jenkins to improve software delivery speed and reliability. Developing and managing containerized applications using Docker and Kubernetes to enhance deployment and scalability. DevOps Automation: Automating infrastructure tasks, configuration management, and monitoring to streamline operations and improve efficiency.
 
